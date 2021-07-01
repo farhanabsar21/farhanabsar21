@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farhan
 - 👀 I’m interested in Excellence 
-- 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on React Js
+- 🌱 I’m a MERN Stack Developer 
+- 💞️ Dreamt to be a top React Js dev 
 - 📫 Need Me? Contact - farhanabsarofficial21@gmail.com
 
 <!---
