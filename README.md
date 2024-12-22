@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Farhan
 - 👀 I’m interested in Excellence 
-- 🌱 I’m a MERN Stack Developer 
+- 🌱 I’m a Web Developer (Frontend)
 - 💞️ Dreamt to be a top React Js dev 
 - 📫 Need Me? Contact - farhanabsarofficial21@gmail.com
 
