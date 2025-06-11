@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farhan
 - 👀 I’m interested in Excellence 
-- 🌱 I’m a Web Developer (Frontend)
-- 💞️ Dreamt to be a top React Js dev 
+- 🌱 I’m a Full Stack Developer
+- 💞️ Dreamt to be a top Web Application Developer
 - 📫 Need Me? Contact - farhanabsarofficial21@gmail.com
 
 <!---
